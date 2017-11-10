@@ -1,4 +1,34 @@
-*{
-	padding: 0;
-	height: 0;
+/*div {
+	border: 1px solid black;		
+}*/
+
+h1 {
+	color: black;
+	font-size: 30px;
+}
+h2 {
+	color: black;
+	font-size: 20px;
+}
+
+.borde {
+	text-align: center;
+	font-family: arial;
+	color: grey;
+	font-size: 15px;
+
+}
+
+.linea {
+	width: 30px;
+	border: 1px solid black;
+}
+
+.carousel-inner {
+	max-height: 400px;
+	overflow: hidden;
+}
+
+#piano{
+	margin-top: -500px;
 }
